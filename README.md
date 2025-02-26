@@ -1,4 +1,4 @@
-# 🌟 Welcome to Ahmi-pixel's GitHub Profile! 🌟
+# 🌟 Welcome to Ahmad Ali's GitHub Profile! 🌟
 
 Explore a collection of exciting **C++** projects, carefully crafted to solve real-world problems and enhance coding skills. Dive into the world of **software development** with various applications that showcase both creativity and technical expertise!
 
